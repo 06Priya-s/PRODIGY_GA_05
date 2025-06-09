@@ -38,7 +38,7 @@
   <h2>Example</h2>
     <p>Before (Content) | Style | After (Result)</p>
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/0a896647666373.5881015ace2c1.jpg" width="200" alt="Content Image">
-    <img src="https://example.com/style.jpg" width="200" alt="Style Image">
+    <img src="https://github.com/06Priya-s/PRODIGY_GA_05/blob/main/famous_painting.jpg" width="200" alt="Style Image">
     <img src="https://example.com/result.jpg" width="200" alt="Result Image">
     
 
